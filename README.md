@@ -1,5 +1,6 @@
-# challenge2-data-science-prediction
+# Churn Predictive Analysis: TelecomX Customer Retention
 "Modelado Predictivo de Churn: Implementación de Random Forest con balanceo de clases (SMOTE) para la optimización del Recall y detección proactiva de fuga de clientes."
+
 # 🤖 Predicción de Churn: Pipeline de Data Science con Random Forest
 
 Este proyecto desarrolla un ecosistema completo de ciencia de datos para predecir la fuga de clientes (Churn) en una empresa de telecomunicaciones. El enfoque principal radica en transformar datos complejos y resolver el desbalance de clases para mejorar la detección proactiva de bajas.
